@@ -1,0 +1,7 @@
+Observations:
+
+Through my study, I have found that the Drugs "Ramicane" and "Capomulin" both have a higher final tumor
+
+Also discovered during the study, mice with a lower total weigt typically will have a smaller tumor size.
+
+Ceftomin has the smallest average final tumor size.
